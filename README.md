@@ -118,14 +118,7 @@ Authorization: Bearer <token>
 
 Protected routes validate JWT & role
 
-API Documentation (Swagger)
 
-After starting the backend, visit:
-
-http://localhost:4000/docs
-
-
-This contains interactive API documentation for all endpoints.
 
  API Endpoints (v1)
 Auth
@@ -152,5 +145,6 @@ No sensitive data exposed in responses
 
 
 Refresh tokens
+
 
 
