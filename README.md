@@ -74,7 +74,7 @@ frontend/
 
 
 
-2️⃣ Backend Setup
+ Backend Setup
 cd backend
 npm install
 
@@ -95,7 +95,7 @@ Backend will run at:
 
 http://localhost:4000
 
-3️⃣ Frontend Setup
+Frontend Setup
 cd frontend
 npm install
 npm run dev
@@ -127,7 +127,7 @@ http://localhost:4000/docs
 
 This contains interactive API documentation for all endpoints.
 
-🔗 API Endpoints (v1)
+ API Endpoints (v1)
 Auth
 Method	Endpoint	Description
 POST	/api/v1/auth/register	Register new user
@@ -152,4 +152,5 @@ No sensitive data exposed in responses
 
 
 Refresh tokens
+
 
